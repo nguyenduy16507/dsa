@@ -72,8 +72,9 @@ Câu 9 : Trình bày phương pháp quay lui và mô tả ý tưởng
 ```
 
 10) Trình bày Phương pháp nhánh cận hàm mô tả ý tưởng phương pháp này.
-* <img width="361" height="172" alt="image" src="https://github.com/user-attachments/assets/e3743189-de53-4ea3-acda-5816629c3af0" />
+* <img width="1115" height="533" alt="image" src="https://github.com/user-attachments/assets/b7af3762-ce74-4595-851c-c9324498e0c3" />
 * <img width="1217" height="683" alt="image" src="https://github.com/user-attachments/assets/bcb98bc0-8a86-4829-8eb8-9413e732edb1" />
+
 * <img width="1016" height="670" alt="image" src="https://github.com/user-attachments/assets/fd291a17-5fab-4ed6-b63e-26911a004571" />
 
 
